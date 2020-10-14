@@ -1,82 +1,86 @@
-[
+module.exports = [
   {
     "symbol": "BTC",
-    "total": 1
+    "total": 0
   },
   {
     "symbol": "ETH",
-    "total": 1
+    "total": 0
   },
   {
     "symbol": "DAI",
-    "total": 1
+    "total": 0
   },
   {
     "symbol": "LINK",
-    "total": 1
+    "total": 0
   },
   {
     "symbol": "ADA",
-    "total": 1
+    "total": 0
   },
   {
     "symbol": "LEND",
-    "total": 1
+    "total": 0
   },
   {
     "symbol": "MANA",
-    "total": 1
+    "total": 0
   },
   {
     "symbol": "SNX",
-    "total": 1
+    "total": 0
   },
   {
     "symbol": "BNB",
-    "total": 1
+    "total": 0
   },
   {
     "symbol": "MIOTA",
-    "total": 1
+    "total": 0
   },
   {
     "symbol": "XMR",
-    "total": 1
+    "total": 0
   },
   {
     "symbol": "DCR",
-    "total": 1
+    "total": 0
   },
   {
     "symbol": "VET",
-    "total": 1
+    "total": 0
   },
   {
     "symbol": "XLM",
-    "total": 1
+    "total": 0
   },
   {
     "symbol": "TRX",
-    "total": 1
+    "total": 0
   },
   {
     "symbol": "CLN",
-    "total": 1
+    "total": 0
   },
   {
     "symbol": "LPT",
-    "total": 1
+    "total": 0
   },
   {
     "symbol": "ARK",
-    "total": 1
+    "total": 0
   },
   {
     "symbol": "LSK",
-    "total": 1
+    "total": 0
   },
   {
     "symbol": "XPAT",
-    "total": 1
+    "total": 0
+  },
+  {
+    "symbol": "LTC",
+    "total": 0
   }
 ]

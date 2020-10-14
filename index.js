@@ -1,6 +1,6 @@
 const axios = require("axios");
 const settings = require("./settings");
-const portifolio = require("./coins.json");
+const portifolio = require("./coins");
 
 const priceRequest = axios.create({
   baseURL: settings.api + settings.priceUrl,
